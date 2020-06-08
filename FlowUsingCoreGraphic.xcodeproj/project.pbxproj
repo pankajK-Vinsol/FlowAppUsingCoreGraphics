@@ -13,6 +13,8 @@
 		46850A1A248A52BB00A2D68F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46850A18248A52BB00A2D68F /* Main.storyboard */; };
 		46850A1C248A52BC00A2D68F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46850A1B248A52BC00A2D68F /* Assets.xcassets */; };
 		46850A1F248A52BC00A2D68F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46850A1D248A52BC00A2D68F /* LaunchScreen.storyboard */; };
+		46850A27248A54A100A2D68F /* PushButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46850A26248A54A100A2D68F /* PushButton.swift */; };
+		46850A29248E010500A2D68F /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46850A28248E010500A2D68F /* CounterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		46850A1B248A52BC00A2D68F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		46850A1E248A52BC00A2D68F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		46850A20248A52BC00A2D68F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		46850A26248A54A100A2D68F /* PushButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushButton.swift; sourceTree = "<group>"; };
+		46850A28248E010500A2D68F /* CounterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				46850A12248A52BB00A2D68F /* AppDelegate.swift */,
 				46850A14248A52BB00A2D68F /* SceneDelegate.swift */,
 				46850A16248A52BB00A2D68F /* ViewController.swift */,
+				46850A26248A54A100A2D68F /* PushButton.swift */,
+				46850A28248E010500A2D68F /* CounterView.swift */,
 				46850A18248A52BB00A2D68F /* Main.storyboard */,
 				46850A1B248A52BC00A2D68F /* Assets.xcassets */,
 				46850A1D248A52BC00A2D68F /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				46850A17248A52BB00A2D68F /* ViewController.swift in Sources */,
 				46850A13248A52BB00A2D68F /* AppDelegate.swift in Sources */,
 				46850A15248A52BB00A2D68F /* SceneDelegate.swift in Sources */,
+				46850A27248A54A100A2D68F /* PushButton.swift in Sources */,
+				46850A29248E010500A2D68F /* CounterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
